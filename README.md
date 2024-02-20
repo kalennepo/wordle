@@ -1,5 +1,5 @@
 Wordle, my first personal project using concepts I learned in my Introduction to Objected-Oriented Programming 
-and Introduction to Data Structures and Algorithms courses.
+and Introduction to Data Structures and Algorithms courses. Written fully in Java. 
 
 Demo:
 
